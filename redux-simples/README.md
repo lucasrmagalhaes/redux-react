@@ -1,4 +1,4 @@
-[Comandos]()
+[Comandos](https://github.com/lucasrmagalhaes/redux-react/blob/main/redux-simples/COMANDOS.md)
 
 **Material Icon Theme - Adicionando ícones para outros diretórios.**
 ```
