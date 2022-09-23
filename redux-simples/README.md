@@ -1,3 +1,5 @@
+[Comandos]()
+
 **Material Icon Theme - Adicionando ícones para outros diretórios.**
 ```
 "material-icon-theme.folders.associations": {
