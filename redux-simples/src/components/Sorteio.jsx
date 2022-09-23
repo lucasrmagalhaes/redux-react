@@ -1,14 +1,12 @@
 import Card from './Card';
 
-const Sorteio = ({ min, max }) => {
-    const aleatorio = parseInt(Math.random() * (max - min));
-
+const Sorteio = props => {
     return (
         <Card title="Sorteio de um Número" purple>
             <div>
                 <span>
                     <span>Resultado: </span>
-                    <strong>{aleatorio}</strong>
+                    <strong>{10}</strong>
                 </span>
             </div>
         </Card>
